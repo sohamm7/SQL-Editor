@@ -9,7 +9,7 @@ This is a REACT SQL Editor built using ReactJs and TailwindCSS.
 <img src="https://img.shields.io/website?url=https://www.codingspace.codes&logo=github&style=flat-square" />
 </a>
 
-Try out the website : [REACT SQL Editor](https://react-sql-editor-view.vercel.app/)
+Try out the website : [REACT SQL Editor](https://sqlterminal.netlify.app/)
 
 ## 👨‍🔧 Tech Stack
 
