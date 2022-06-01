@@ -29,24 +29,16 @@ Try out the website : [REACT SQL Editor](https://sqlterminal.netlify.app/)
 
 ## ⏱ Page Load Time
 
-Page Load time of this website in desktop is in the range of 0.4 s to 0.6s.
+Page Load time of this website in desktop is in the range of 0.3 s to 0.5s.
 
-I calculated the performance and load time of this website using these two tools Lighthouse Chrome DevTools and BrowserStack SpeedLab.
+I calculated the performance and load time of this website using SpeedVitals.
 
-### [Lighthouse Chrome DevTools Report](https://developers.google.com/web/tools/lighthouse#devtools) (got a perfect 💯)
 
-![lighthouse report](src/assets/Screenshots/report.jpg)
+![lighthouse report](src/assets/Screenshots/report2.jpg)
 
-- **First Contentful Paint** marks the time at which the first text or image is painted
-- **Time to interactive** is the amount of time it takes for the page to become fully interactive.
-- **Speed Index** shows how quickly the contents of a page are visibly populated.
-- **Total Blocking Time** is the sum of all time periods between FCP and Time to Interactive, when task length exceeded 50ms, expressed in milliseconds.
-- **Largest Contentful Paint** marks the time at which the largest text or image is painted.
-- **Cumulative Layout Shift** measures the movement of visible elements within the viewport.
 
-### [BrowserStack Report](https://www.browserstack.com/speedlab)
 
-![browserstack report](src/assets/screenshots/screenshot-three.png)
+
 
 ## 🪜 Steps I took to optimize the page load time
 
