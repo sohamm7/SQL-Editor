@@ -35,7 +35,7 @@ I calculated the performance and load time of this website using these two tools
 
 ### [Lighthouse Chrome DevTools Report](https://developers.google.com/web/tools/lighthouse#devtools) (got a perfect 💯)
 
-![lighthouse report](src/assets/screenshots/screenshot-lighthouse.png)
+![lighthouse report](src/assets/Screenshots/report.jpg)
 
 - **First Contentful Paint** marks the time at which the first text or image is painted
 - **Time to interactive** is the amount of time it takes for the page to become fully interactive.
